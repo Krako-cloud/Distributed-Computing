@@ -11,3 +11,7 @@ https://arxiv.org/abs/2402.14905?ref=pytorchkr
 
 ### Scaling Laws for Neural Language Models
 https://arxiv.org/abs/2001.08361?ref=pytorchkr
+
+
+### OPT: Open Pre-trained Transformer Language Models
+https://arxiv.org/abs/2205.01068?ref=pytorchkr
