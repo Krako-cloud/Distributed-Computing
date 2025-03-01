@@ -1,5 +1,5 @@
 
-# Branch Flow
+# Project Branch Flow
 There are many successful approaches to branching with git.  The BOINC community is using the following model that derives heavily from approaches like Microsoft's [Release Flow](https://docs.microsoft.com/en-us/azure/devops/devops-at-microsoft/release-flow) and [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html) but customizes these approaches to suit the needs of the BOINC community. 
 
 ## Master Branch
