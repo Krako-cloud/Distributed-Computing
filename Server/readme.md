@@ -15,3 +15,7 @@ https://arxiv.org/abs/2001.08361?ref=pytorchkr
 
 ### OPT: Open Pre-trained Transformer Language Models
 https://arxiv.org/abs/2205.01068?ref=pytorchkr
+
+
+### GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
+https://arxiv.org/abs/2305.13245?ref=pytorchkr
