@@ -1,6 +1,6 @@
 
 # Distributed Computing with Grid
-## - large-scale distributed high-throughput computing using home computers and other resources.
+## Large-scale distributed high-throughput computing using home computers and other resources.
 
  Grid computing has brought about a major shift in how we think about how to maximize the value of computing resources. The technology is still in its early stages, but the Grid Computing zone will continue to add new articles, tutorials, resources, and tools to help developers get up to speed on this important technology.
 
