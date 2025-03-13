@@ -6,7 +6,7 @@ There are many successful approaches to branching with git.  The Krako community
 The master branch is the primary branch in the project.  Committers will never commit to the master branch directly.  Any code merged into master is expected to go through peer review, be unit tested and have had existing automation tests run successfully against the new code before it is merged.  As a result, the master branch is expected to be reliable and is what developers should usually branch from when creating other branches.  
 
 ## Feature and Bugfix Branches
-Developers create feature or bugfix branches when they want to modify the code base.  If they are a committer, then they can use the [shared repository model](https://gist.github.com/seshness/3943237) and create the branch within the BOINC project directly.  If they are not a committer then they should follow the [fork and pull approach](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to create a branch and submit a pull request.
+Developers create feature or bugfix branches when they want to modify the code base.  If they are a committer, then they can use the [shared repository model](https://gist.github.com/seshness/3943237) and create the branch within the Krako project directly.  If they are not a committer then they should follow the [fork and pull approach](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to create a branch and submit a pull request.
 
 Features and bugfix branches are merged into master via a pull request.  Developers should understand what is expected before submitting a pull request by reviewing the [Development Workflow](Development_Workflow.md) document.  
 
