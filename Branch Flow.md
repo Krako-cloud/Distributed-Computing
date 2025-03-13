@@ -1,6 +1,6 @@
 
 # Project Branch Flow
-There are many successful approaches to branching with git.  The Krako community is using the following model that derives heavily from approaches like Microsoft's [Release Flow](https://docs.microsoft.com/en-us/azure/devops/devops-at-microsoft/release-flow) and [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html) but customizes these approaches to suit the needs of the BOINC community. 
+There are many successful approaches to branching with git.  The Krako community is using the following model that derives heavily from approaches like Microsoft's [Release Flow](https://docs.microsoft.com/en-us/azure/devops/devops-at-microsoft/release-flow) and [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html) but customizes these approaches to suit the needs of the Krako community. 
 
 ## Master Branch
 The master branch is the primary branch in the project.  Committers will never commit to the master branch directly.  Any code merged into master is expected to go through peer review, be unit tested and have had existing automation tests run successfully against the new code before it is merged.  As a result, the master branch is expected to be reliable and is what developers should usually branch from when creating other branches.  
